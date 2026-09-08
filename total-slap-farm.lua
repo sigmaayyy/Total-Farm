@@ -1,3 +1,3 @@
-task.wait(3)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lolledg/Sb/refs/heads/main/auto%20farm"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NewNexer/NexerHub/refs/heads/main/SB/SFs/serverhop.luau"))({["snow"]=true;["slapples"]=true;["autoserverhop"]=6;})
+-- this script was made by 6xow, my developer. on discord. If you were trying to skid anything here, good luck. 
