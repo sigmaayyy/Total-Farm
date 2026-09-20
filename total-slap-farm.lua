@@ -1,4 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lolledg/Sb/refs/heads/main/auto%20farm"))()
-
--- this script was made by 6xow, my developer. on discord. If you were trying to skid anything here, good luck. 
--- Also, for all those kids trying to crack my script, you can crack this one, we don't really care for this script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NewNexer/NexerHub/refs/heads/main/SB/SFs/serverhop.luau"))({["snow"]=true;["slapples"]=true;["autoserverhop"]=6;})
+ -- for all those kids trying to crack my script, you can crack this one, we don't really care for this script. it's not even mine anyway lol
